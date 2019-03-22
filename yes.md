@@ -1,5 +1,5 @@
 # Utvecklingsprojekt i Webbutveckling 1
-*Victor Bohmies*
+*Hugo Benjaminsson*
 
 ## Bakgrund
 

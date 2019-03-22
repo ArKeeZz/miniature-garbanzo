@@ -33,5 +33,6 @@ https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129357/assignme
 ### Tillgänglighet
 Målet är att göra min portfolio tillgänglig på så många olika enheter som möjligt. 
 ## Dokumentation
+https://cdn.discordapp.com/emojis/494166812922085376.png?v=1 (:soontm:)
 ### Kod
-:soontm:
+https://cdn.discordapp.com/emojis/494166812922085376.png?v=1 (:soontm:)

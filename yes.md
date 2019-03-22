@@ -8,23 +8,23 @@
 ### Layout
 ### Färgval
 
-##### Bakgrund - DAWN PINK
+##### Bakgrund - WOOD SMOKE
 ###### Användningsområde
 ###### HEX - #13131A:
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(19,19,26):
 
-##### Element - DE YORK
+##### Element - WHITE
 ###### Användningsområde
-###### HEX - #76c187: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
+###### HEX - #FFFFFF:
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(255,255,255):
 
-##### Huvudsaklig färg - VIRIDIAN GREEN
+##### Huvudsaklig färg - WHITE
 ###### Användningsområde
-###### HEX - #5f877e: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
+###### HEX - #FFFFFF: 
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(255,255,255): 
 
 ##### Beteende - CLAY CREEK
 ###### Användningsområde

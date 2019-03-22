@@ -20,7 +20,7 @@
 
 ###### RGB - rgb(255,255,255): 
 
-##### Text -WHITE
+##### Text - WHITE
 ###### Användningsområde
 ###### HEX - #FFFFFF:
 

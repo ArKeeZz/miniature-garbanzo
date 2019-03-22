@@ -10,7 +10,7 @@
 
 ##### Bakgrund - DAWN PINK
 ###### Användningsområde
-###### HEX - #F0E7DC: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### HEX - #13131A: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 

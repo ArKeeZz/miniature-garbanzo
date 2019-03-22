@@ -12,19 +12,16 @@ Min layout är väldigt simpel, med en del av information delat upp på de olika
 ### Färgval
 Jag valde de färgerna som jag gjode för att jag tyckte att de såg bra ut tillsammans samt att det var enkelt att läsa de.
 ##### Bakgrund - WOOD SMOKE
-###### Användningsområde
 ###### HEX - #13131A:
 
 ###### RGB - rgb(19,19,26):
 
 ##### Huvudsaklig färg - WHITE
-###### Användningsområde
 ###### HEX - #FFFFFF: 
 
 ###### RGB - rgb(255,255,255): 
 
 ##### Text - WHITE
-###### Användningsområde
 ###### HEX - #FFFFFF:
 
 ###### RGB - rgb(255,255,255):
@@ -37,3 +34,4 @@ https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129357/assignme
 Målet är att göra min portfolio tillgänglig på så många olika enheter som möjligt. 
 ## Dokumentation
 ### Kod
+:soontm:

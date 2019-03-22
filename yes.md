@@ -2,7 +2,7 @@
 *Hugo Benjaminsson*
 
 ## Bakgrund
-Backgrunden till det här projektet är för att jag ska kunna lära mig att skapa mina egna hemsidor. (Samt att det är en skol uppgift som vi måste göra för att få beytg i kursen)
+Backgrunden till det här projektet är för att jag ska kunna lära mig att skapa mina egna hemsidor. *(Samt att det är en skol uppgift som vi måste göra för att få beytg i kursen)*
 ## Planering
 Idk be finished before school ends I guess?
 ### Innehåll

@@ -14,17 +14,17 @@ Jag valde de färgerna som jag gjode för att jag tyckte att de såg bra ut till
 ##### Bakgrund - WOOD SMOKE
 ###### HEX - #13131A:
 
-###### RGB - rgb(19,19,26):
+###### RGB - (19,19,26):
 
 ##### Huvudsaklig färg - WHITE
 ###### HEX - #FFFFFF: 
 
-###### RGB - rgb(255,255,255): 
+###### RGB - (255,255,255): 
 
 ##### Text - WHITE
 ###### HEX - #FFFFFF:
 
-###### RGB - rgb(255,255,255):
+###### RGB - (255,255,255):
 
 ### Typsnitt
 GeosansLight-NMS 

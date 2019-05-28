@@ -1,0 +1,91 @@
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url("../images/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #13131A;
+    position: relative;
+}
+
+
+.header {
+    font-family: arial;
+    color: white;
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: #ddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 65px;
+}
+
+.navbar a:hover {
+    background: #f4f4f4;
+    color: black;
+}
+
+.border {
+    background-color: #13131A;
+    padding: 15px;
+    color: white;
+
+}
+
+.home {
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    position: absolute;
+    text-align: center;
+    top: 435px;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.about {
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    top: 1000px;
+    background-color:  #13131A;
+    text-align:center;
+    padding:30px 60px;
+
+}
+
+.history {
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: arial;
+    top: 1375px;
+    background-color:  #13131A;
+    text-align:center;
+    padding:30px 60px;
+
+}
+
+.title {
+    font-size: 48px;
+}
